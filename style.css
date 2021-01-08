@@ -1,0 +1,13 @@
+ li{
+      font-size: 15px;
+      margin-right: 15px;
+    }
+    .icons img:hover{
+    	transform: rotate(360deg);
+    }
+/*.add::before{
+	height: 50px;
+}
+.icons::before{
+	float: left;
+}*/
